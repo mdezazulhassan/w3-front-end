@@ -1,7 +1,7 @@
 /* border-img: sourch | scice | width | outset | repeat; */
 /* clamp(min, actual, max) */
 /* scale calculation: 1 + ((z tran * -1) / perpec) */
-/*                    1 + ((-100 * -1) / 100 */
+/*                    1 + ((-100 * -1) / 100 */ 
 
 :root
 {
